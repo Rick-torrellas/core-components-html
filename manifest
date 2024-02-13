@@ -1,0 +1,23 @@
+# Manifest
+
+## Componente
+
+Un componente esta definido por:
+
+* Forma: Cuadrado,Rectángulo,Circulo,etc.
+* Estructura interna: Como están organizados sus elementos internos.
+
+Todas las modificaciones que se le puedan hacer a un componente no crean un nuevo componente, modificaciones como:
+
+* Color.
+* Tamaño
+* Tipografía
+
+## Efectos
+
+Son todos los añadidos que se puede agregar a un componente, pero no modifican su forma o estructura original.
+
+## Rules
+
+* _ Modificador
+* __ Pertenece
