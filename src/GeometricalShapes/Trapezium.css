@@ -1,0 +1,7 @@
+.Trapezium {
+    width: 500px;
+    height: 0;
+    border-right: 100px solid transparent;
+    border-left: 100px solid transparent;
+    border-bottom: 250px solid aqua;
+}

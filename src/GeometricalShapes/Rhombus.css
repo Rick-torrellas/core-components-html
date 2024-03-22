@@ -1,0 +1,6 @@
+.Rhombus {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    transform: rotate(45deg) skew(15deg, 15deg);
+}

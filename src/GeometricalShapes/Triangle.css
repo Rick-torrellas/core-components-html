@@ -1,0 +1,20 @@
+
+.Triangle {
+    --border-color: rgba(209, 24, 24,1);
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 60px solid var(--border-color);
+}
+
+.Triangle--Button {
+    border-top: none;
+    padding-block: 0;
+    padding-inline: 0;
+}
+.Triangle-A {
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 60px solid var(--border-color); 
+}

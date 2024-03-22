@@ -1,0 +1,6 @@
+.__content {
+    /* Es la manera que va a ser mostrado el contenido por defecto */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

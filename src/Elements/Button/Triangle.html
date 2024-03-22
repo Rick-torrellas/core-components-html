@@ -1,0 +1,33 @@
+<button class="Button Button--Triangle">
+  <div class="Button Triangle Button__Triangle"></div>
+  <div class="Button--Triangle__Content">Button</div>
+</button>
+
+<style>
+  .Button--Triangle {
+    background-color: rgba(184, 18, 18, 0.1);
+    border: none;
+    cursor: pointer;
+  }
+
+  .Button--Triangle:hover {
+    background-color: rgba(184, 18, 18, 0.2);
+    border-left: 5px solid rgb(209, 24, 24);
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+  }
+
+  .Button__Triangle {
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid rgb(209, 24, 24);
+  }
+
+  .Button--Triangle__Content {
+    top: 20%;
+    color: whitesmoke;
+  }
+</style>

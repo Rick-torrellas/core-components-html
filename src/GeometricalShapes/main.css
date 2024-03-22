@@ -1,0 +1,8 @@
+@import url('./Rectangle.css');
+@import url('./Rhombus.css');
+@import url('./Square.css');
+@import url('./Triangle.css');
+@import url('./--Circle.css');
+@import url("./--Parallelogram.css");
+@import url("./Trapezium.css");
+@import url('./Extra/Extra.css');
